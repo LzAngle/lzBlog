@@ -23,10 +23,6 @@ actionText: About
 actionLink: /views/other/about
 ---
 
-## 快速开始1
-
-
-## 可以开始了
 
 **npx**
 
@@ -49,4 +45,4 @@ theme-cli init
 # 初始化，并选择 2.x
 yarn global add @vuepress-reco/theme-cli@1.0.7
 theme-cli init
-```
+``` -->
