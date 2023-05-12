@@ -25,6 +25,9 @@ actionLink: /views/other/about
 
 ## 快速开始1
 
+
+## 可以开始了
+
 **npx**
 
 ```bash
