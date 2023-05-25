@@ -29,7 +29,7 @@ export default defineUserConfig({
       ],
     },
     navbar: [
-      { text: "Home", link: "/" },
+      { text: "主页", link: "/" },
       { text: "Categories", link: "/categories/reco/1/" },
       { text: "Tags", link: "/tags/tag1/1/" },
       {
