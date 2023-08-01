@@ -32,10 +32,10 @@ export default defineUserConfig({
     },
     navbar: [
       { text: "\u4E3B\u9875", link: "/" },
-      { text: "Categories", link: "/categories/reco/1/" },
-      { text: "Tags", link: "/tags/tag1/1/" },
+      { text: "分类", link: "/categories/houduan/1/" },
+      { text: "标签", link: "/tags/netty/1/" },
       {
-        text: "Docs",
+        text: "文档",
         children: [
           { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
           { text: "vuepress-theme-reco", link: "/blogs/other/guide" }
