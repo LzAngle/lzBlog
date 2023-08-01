@@ -13,8 +13,8 @@ bannerBrand:
   # buttons:
   #   - { text: Guide, link: '/docs/guide/introduce' }
   #   - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }
-  socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/LzAngle' }
+  # socialLinks:
+  #   - { icon: 'LogoGithub', link: 'https://github.com/LzAngle' }
 # blog:
 #   socialLinks:
 #     - { icon: 'LogoGithub', link: 'https://github.com/LzAngle' }

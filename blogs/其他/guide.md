@@ -2,7 +2,7 @@
 title: vuepress简介
 date: 2019/04/09
 categories:
- - reco
+ - 其他
 ---
 
 ![vuepress](https://img.shields.io/badge/vuepress-0.14.8-brightgreen.svg)

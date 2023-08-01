@@ -5,7 +5,7 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "靓仔的小网站",
   base: "/lzBlog/",
-  description: "Just playing around",
+  description: "",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
@@ -32,10 +32,11 @@ export default defineUserConfig({
     },
     navbar: [
       { text: "\u4E3B\u9875", link: "/" },
-      { text: "分类", link: "/categories/houduan/1/" },
-      { text: "标签", link: "/tags/netty/1/" },
+      { text: "分类", link: "/categories/houduan/1/",incon:"reco-category"},
+      { text: "标签", link: "/tags/netty/1/",incon:"reco-tag"},
       {
         text: "文档",
+        icon: "reco-document",
         children: [
           { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
           { text: "vuepress-theme-reco", link: "/blogs/other/guide" }
