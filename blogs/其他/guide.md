@@ -1,5 +1,5 @@
 ---
-title: vuepress-theme-reco
+title: vuepress简介
 date: 2019/04/09
 categories:
  - reco

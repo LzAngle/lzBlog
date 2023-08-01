@@ -7,9 +7,9 @@ modules:
   - Footer
 bannerBrand:
   bgImage: '/bg.svg'
-  title: 后端大菜鸟
-  description: 记录一些笔记儿
-  tagline: 追逐风～～～
+  title: 🤵‍♂️(靓仔)的笔记库
+  # description: 记录一些笔记儿
+  # tagline: 追逐风～～～
   # buttons:
   #   - { text: Guide, link: '/docs/guide/introduce' }
   #   - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }
